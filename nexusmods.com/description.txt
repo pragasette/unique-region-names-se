@@ -10,10 +10,6 @@ This is a port of [url=https://www.nexusmods.com/skyrim/mods/79009]Unique Region
 [*] Water flows are updated for Special Edition using the [url=https://www.nexusmods.com/skyrimspecialedition/mods/5221]Fix Oldrim Mods Waterflow[/url] SSEEdit script.
 [*] The plugin is [url=https://www.creationkit.com/fallout4/index.php?title=Data_File#Light_Plugin]flagged as ESL[/url] and doesn't count against the ESP limit.[/list]
 
-[heading]Requirements[/heading]
-[list]
-[*] [url=https://www.nexusmods.com/skyrimspecialedition/mods/266]Unofficial Skyrim Special Edition Patch[/url][/list]
-
 [heading]Installation[/heading]
 [list]
 [*] Install using your mod manager of choice, [url=https://www.nexusmods.com/skyrimspecialedition/mods/6194]Mod Organizer 2[/url] is recommended.

@@ -15,7 +15,6 @@ for use with [Regional Save Names].
 ## Requirements
 
 - [The Elder Scrolls V: Skyrim Special Edition][Skyrim Special Edition]
-- [Unofficial Skyrim Special Edition Patch][USSEP]
 
 ## Installation
 
@@ -49,7 +48,6 @@ for use with [Regional Save Names].
 [Unique Region Names USLEEP]: https://www.nexusmods.com/skyrim/mods/79009
 [Regional Save Names]: https://www.nexusmods.com/skyrimspecialedition/mods/49698
 [ESL]: https://www.creationkit.com/fallout4/index.php?title=Data_File#Light_Plugin
-[USSEP]: https://www.nexusmods.com/skyrimspecialedition/mods/266
 [Mod Organizer 2]: https://github.com/ModOrganizer2/modorganizer
 [SSEEdit]: https://github.com/TES5Edit/TES5Edit
 [#1]: https://tes5edit.github.io/docs/5-conflict-detection-and-resolution.html
