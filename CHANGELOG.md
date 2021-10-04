@@ -7,6 +7,9 @@ The format is based on [Keep a Changelog] and this project adheres to
 
 ## Unreleased
 
+### Added
+- Readme.
+
 ### Fixed
 - Conflicts with Update, Dawnguard and USSEP.
 
