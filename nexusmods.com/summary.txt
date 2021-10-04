@@ -1,0 +1,1 @@
+Relabel exterior locations from "Skyrim" to their actual region name.

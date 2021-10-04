@@ -1,0 +1,29 @@
+[center][font=bebas_neuebook][size=5][url=https://www.nexusmods.com/skyrim/mods/79009]Classic Edition[/url] • Special Edition • [url=https://github.com/pragasette/unique-region-names-se]GitHub[/url][/size][/font][/center]
+
+This is a port of [url=https://www.nexusmods.com/skyrim/mods/79009]Unique Region Names USLEEP[/url] to Special Edition, intended for use with [url=https://www.nexusmods.com/skyrimspecialedition/mods/49698]Regional Save Names[/url].
+
+
+[heading]Features[/heading]
+[list]
+[*] Relabel exterior locations from [i]Skyrim[/i] to their actual region name.
+[*] Provide the region names required by [url=https://www.nexusmods.com/skyrimspecialedition/mods/49698]Regional Save Names[/url].
+[*] Water flows are updated for Special Edition using the [url=https://www.nexusmods.com/skyrimspecialedition/mods/5221]Fix Oldrim Mods Waterflow[/url] SSEEdit script.
+[*] The plugin is [url=https://www.creationkit.com/fallout4/index.php?title=Data_File#Light_Plugin]flagged as ESL[/url] and doesn't count against the ESP limit.[/list]
+
+[heading]Requirements[/heading]
+[list]
+[*] [url=https://www.nexusmods.com/skyrimspecialedition/mods/266]Unofficial Skyrim Special Edition Patch[/url][/list]
+
+[heading]Installation[/heading]
+[list]
+[*] Install using your mod manager of choice, [url=https://www.nexusmods.com/skyrimspecialedition/mods/6194]Mod Organizer 2[/url] is recommended.
+[*] Use [url=https://www.nexusmods.com/skyrimspecialedition/mods/164]SSEEdit[/url] to make sure changes to cell records don't override more important features from other mods: see [url=https://tes5edit.github.io/docs/5-conflict-detection-and-resolution.html]xEdit Conflict Detection and Resolution[/url] and [url=https://www.reddit.com/r/skyrimmods/wiki/patching]Patching[/url] to know more.[/list]
+
+[heading]Credits[/heading]
+[list]
+[*] [url=https://www.nexusmods.com/skyrim/users/7077665]Beowulf/Magnusen2[/url] for their [url=https://www.nexusmods.com/skyrim/mods/79009]original work[/url] and leaving [url=https://web.archive.org/web/20211002105841/https://forums.nexusmods.com/index.php?/topic/4893655-unique-region-names-usleep/page-4#entry44963285]open permissions[/url].
+[*] [url=https://www.nexusmods.com/skyrimspecialedition/users/486452]unblest[/url] for their [url=https://www.nexusmods.com/skyrimspecialedition/mods/5221]Fix Oldrim Mods Waterflow[/url] SSEEdit script, used to update water flow records.[/list]
+
+[heading]Alternatives[/heading]
+[list]
+[*] [url=https://www.nexusmods.com/skyrimspecialedition/mods/11750]Unique Region Names[/url], currently hidden.[/list]
