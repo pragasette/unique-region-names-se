@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog] and this project adheres to
 
 ### Added
 - Readme.
+- License.
 - Patches for Realistic Water Two, Cutting Room Floor, MEZF.
 
 ### Fixed
