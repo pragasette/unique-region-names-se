@@ -24,6 +24,14 @@ for use with [Regional Save Names].
   [xEdit Conflict Detection and Resolution][#1] and [Patching][#2] to know
   more.
 
+## Updating
+
+It is safe to update to a newer release in the middle of a game:
+
+- **1.0.0** → **1.1.0** ✔️
+
+Also see [Semantic Versioning for End-User Game Mods].
+
 ## Patches
 
 - [Realistic Water Two] **3.1.2**
@@ -52,6 +60,7 @@ for use with [Regional Save Names].
 [SSEEdit]: https://github.com/TES5Edit/TES5Edit
 [#1]: https://tes5edit.github.io/docs/5-conflict-detection-and-resolution.html
 [#2]: https://www.reddit.com/r/skyrimmods/wiki/patching
+[Semantic Versioning for End-User Game Mods]: https://github.com/pragasette/game-mods-semver
 [Realistic Water Two]: https://www.nexusmods.com/skyrimspecialedition/mods/2182
 [Cutting Room Floor]: https://www.nexusmods.com/skyrimspecialedition/mods/276
 [MEZF]: https://www.nexusmods.com/skyrimspecialedition/mods/23609

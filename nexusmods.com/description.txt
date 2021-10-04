@@ -15,6 +15,15 @@ This is a port of [url=https://www.nexusmods.com/skyrim/mods/79009]Unique Region
 [*] Install using your mod manager of choice, [url=https://www.nexusmods.com/skyrimspecialedition/mods/6194]Mod Organizer 2[/url] is recommended.
 [*] Use [url=https://www.nexusmods.com/skyrimspecialedition/mods/164]SSEEdit[/url] to make sure changes to cell records don't override more important features from other mods: see [url=https://tes5edit.github.io/docs/5-conflict-detection-and-resolution.html]xEdit Conflict Detection and Resolution[/url] and [url=https://www.reddit.com/r/skyrimmods/wiki/patching]Patching[/url] to know more.[/list]
 
+[heading]Updating[/heading]
+It is safe to update to a newer release in the middle of a game:
+&#8203;
+[list]
+[*] [b]1.0.0[/b] → [b]1.1.0[/b] ✔️
+[/list]
+Also see [url=https://www.nexusmods.com/skyrim/mods/101821]Semantic Versioning for End-User Game Mods[/url].
+&#8203;
+
 [heading]Patches[/heading]
 [list]
 [*] [url=https://www.nexusmods.com/skyrimspecialedition/mods/2182]Realistic Water Two[/url] [b]3.1.2[/b]
