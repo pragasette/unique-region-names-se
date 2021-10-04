@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog] and this project adheres to
 
 ### Added
 - Readme.
+- Patches for Realistic Water Two, Cutting Room Floor, MEZF.
 
 ### Fixed
 - Conflicts with Update, Dawnguard and USSEP.

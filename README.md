@@ -25,6 +25,13 @@ for use with [Regional Save Names].
   [xEdit Conflict Detection and Resolution][#1] and [Patching][#2] to know
   more.
 
+## Patches
+
+- [Realistic Water Two] **3.1.2**
+- Realistic Water Two **3.1.2** - [Cutting Room Floor] **3.1.9**
+- Realistic Water Two **3.1.2** - [Missing Encounter Zones FIXED][MEZF]
+  (All Exteriors Zoned) **2.2**
+
 ## Credits
 
 - [Beowulf/Magnusen2][Magnusen2] for their
@@ -47,6 +54,9 @@ for use with [Regional Save Names].
 [SSEEdit]: https://github.com/TES5Edit/TES5Edit
 [#1]: https://tes5edit.github.io/docs/5-conflict-detection-and-resolution.html
 [#2]: https://www.reddit.com/r/skyrimmods/wiki/patching
+[Realistic Water Two]: https://www.nexusmods.com/skyrimspecialedition/mods/2182
+[Cutting Room Floor]: https://www.nexusmods.com/skyrimspecialedition/mods/276
+[MEZF]: https://www.nexusmods.com/skyrimspecialedition/mods/23609
 [Magnusen2]: https://www.nexusmods.com/skyrim/users/7077665
 [unblest]: https://www.nexusmods.com/skyrimspecialedition/users/486452
 [Fix Oldrim Mods Waterflow]: https://www.nexusmods.com/skyrimspecialedition/mods/5221

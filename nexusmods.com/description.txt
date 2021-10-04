@@ -19,6 +19,12 @@ This is a port of [url=https://www.nexusmods.com/skyrim/mods/79009]Unique Region
 [*] Install using your mod manager of choice, [url=https://www.nexusmods.com/skyrimspecialedition/mods/6194]Mod Organizer 2[/url] is recommended.
 [*] Use [url=https://www.nexusmods.com/skyrimspecialedition/mods/164]SSEEdit[/url] to make sure changes to cell records don't override more important features from other mods: see [url=https://tes5edit.github.io/docs/5-conflict-detection-and-resolution.html]xEdit Conflict Detection and Resolution[/url] and [url=https://www.reddit.com/r/skyrimmods/wiki/patching]Patching[/url] to know more.[/list]
 
+[heading]Patches[/heading]
+[list]
+[*] [url=https://www.nexusmods.com/skyrimspecialedition/mods/2182]Realistic Water Two[/url] [b]3.1.2[/b]
+[*] Realistic Water Two [b]3.1.2[/b] - [url=https://www.nexusmods.com/skyrimspecialedition/mods/276]Cutting Room Floor[/url] [b]3.1.9[/b]
+[*] Realistic Water Two [b]3.1.2[/b] - [url=https://www.nexusmods.com/skyrimspecialedition/mods/23609]Missing Encounter Zones FIXED[/url] (All Exteriors Zoned) [b]2.2[/b][/list]
+
 [heading]Credits[/heading]
 [list]
 [*] [url=https://www.nexusmods.com/skyrim/users/7077665]Beowulf/Magnusen2[/url] for their [url=https://www.nexusmods.com/skyrim/mods/79009]original work[/url] and leaving [url=https://web.archive.org/web/20211002105841/https://forums.nexusmods.com/index.php?/topic/4893655-unique-region-names-usleep/page-4#entry44963285]open permissions[/url].
